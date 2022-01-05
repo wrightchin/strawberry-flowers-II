@@ -2,7 +2,7 @@
 First Phase: (Completed on 2021-10-11)
 - Implement a detection model for detecting the location of strawberry flowes in 2 dimensions.
 
-Second Phase: (In progress)
+Second Phase: (Completed on 2022-01-05)
 - Implement a classifier for classifying a flower is ready for pollination or not.
 
 Third Phase: (Pending)
@@ -47,7 +47,7 @@ Validate the training,
 ### Results:
 ![map results](results/chart_yolov4-tiny-obj.png)
 
-![Alt text](results/predictions-3.jpg)
+![Alt text](results/test01.jpg)
 
 [More photos ~](results)
 
