@@ -1,4 +1,4 @@
-### Strawberry Flowers Detector II
+# Strawberry Flowers Detector II
 [First Phase](https://github.com/wrightchin/strawberry-flowers): (Completed on 2021-10-11)
 - Implement a detection model for detecting the location of strawberry flowes in 2 dimensions.
 
