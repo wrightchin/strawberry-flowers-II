@@ -1,11 +1,14 @@
 # Strawberry Flowers Detector II
-[First Phase](https://github.com/wrightchin/strawberry-flowers): (Completed on 2021-10-11)
+[First Phase](https://github.com/wrightchin/strawberry-flowers): (Completed on 10-11-2021)
 - Implement a detection model for detecting the location of strawberry flowes in 2 dimensions.
 
-Second Phase: (Completed on 2022-01-05)
+Second Phase: (Completed on 01-05-2022)
 - Implement a classifier for classifying a flower is ready for pollination or not.
 
-Third Phase: (Pending)
+Third Phase A: (In-Progress)
+-Implement a grow stage tracker for tracking a flower and export to the database.
+
+Third Phase B: (Pending)
 - Implement a Depth Evaluator for determine the location of strawberry flower in 3 dimensions.   
 
 
