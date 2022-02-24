@@ -6,7 +6,7 @@ Second Phase: (Completed on 01-05-2022)
 - Implement a classifier for classifying a flower is ready for pollination or not.
 
 Third Phase A: (In-Progress)
--Implement a grow stage tracker for tracking a flower and export to the database.
+- Implement a grow stage tracker for tracking a flower and export to the database.
 
 Third Phase B: (Pending)
 - Implement a Depth Evaluator for determine the location of strawberry flower in 3 dimensions.   
