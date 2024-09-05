@@ -12,7 +12,7 @@ Third Phase B: (Pending)
 - Implement a Depth Evaluator for determine the location of strawberry flower in 3 dimensions.   
 
 
-### Working Environemnt: 
+### Working Environment: 
 - Cuda: 10.1
 - Cudnn: 7
 - OpenCV: 3.4.8
